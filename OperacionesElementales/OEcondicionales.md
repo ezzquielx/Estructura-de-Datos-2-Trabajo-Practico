@@ -1,4 +1,4 @@
-```markdown
+
 # Ejercicios de Programación en C++
 ## Problemas Condicionales
 
