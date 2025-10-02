@@ -1,6 +1,7 @@
 # 📘 Problemas Propuestos - Estructura de Datos II (UNSTA)
 
-Este documento contiene los enunciados del **TP** de la materia *Estructura de Datos II*.  
+* Este documento contiene los enunciados del **TP** de la materia *Estructura de Datos II*.  
+* En el directorio /OperacionesElementales esta la actividad de Operaciones Elementales
 
 ---
 
