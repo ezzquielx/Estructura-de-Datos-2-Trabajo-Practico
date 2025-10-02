@@ -2,7 +2,7 @@
 
 * Este documento contiene los enunciados del **TP** de la materia *Estructura de Datos II*.  
 * En el directorio /OperacionesElementales esta la actividad de Operaciones Elementales
-
+* En el directorio /Complejidad Algoritmica esta la actividad de Complejidad Algoritmica
 ---
 
 ## 🔹 Problemas Secuenciales
