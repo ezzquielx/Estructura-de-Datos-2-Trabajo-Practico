@@ -1,8 +1,5 @@
 
-# 📊 Complejidad Algorítmica del Programa en C++
-
-Este programa está compuesto por una serie de **problemas condicionales** (selectivos simples y compuestos).  
-En todos los casos, **no se utilizan ciclos ni recursividad**, por lo tanto **todas las operaciones tienen complejidad constante O(1)**.  
+# 📊 Complejidad Algorítmica en C++
 
 A continuación, se analiza cada bloque:
 
