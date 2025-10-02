@@ -1,8 +1,6 @@
-# 📊 Complejidad Algorítmica del Programa en C++ (Problemas Secuenciales)
+# 📊 Complejidad Algorítmica en C++
 
-Este programa está compuesto por **problemas secuenciales** (sin estructuras condicionales ni ciclos).  
-Cada bloque ejecuta un conjunto fijo de operaciones aritméticas y de entrada/salida, por lo tanto:  
-**La complejidad de cada bloque y del programa completo es constante → O(1).**
+A continuación, se analiza cada bloque:
 
 ---
 
